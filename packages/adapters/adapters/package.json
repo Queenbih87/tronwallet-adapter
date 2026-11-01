@@ -59,11 +59,11 @@
         "@tronweb3/tronwallet-adapter-guarda": "workspace:^"
     },
     "devDependencies": {
-        "@vitest/browser": "^2.0.4",
+        "@vitest/browser": "^5.0.5",
         "@walletconnect/modal": "^2.6.2",
         "@walletconnect/sign-client": "^2.1.4",
         "playwright": "^1.45.3",
         "shx": "^0.3.4",
-        "vitest": "^2.0.4"
+        "vitest": "^5.0.5"
     }
 }
